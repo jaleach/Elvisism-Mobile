@@ -1,4 +1,4 @@
-# Elvisism-Mobile
+# Elvisisms Mobile
 Mobile app
 
 ## Tools Used
